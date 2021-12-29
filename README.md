@@ -20,4 +20,4 @@
 - My Workout Routines :rage1:
 
 ### vikramabhishek11@gmail.com
-### LinkedIn [https://www.linkedin.com/in/vikramabhisheksah/]
+### [LinkedIn](https://www.linkedin.com/in/vikramabhisheksah/)
