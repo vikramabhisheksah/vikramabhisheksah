@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @vikramabhisheksah
-- 👀 I’m interested in full stack development, blockchain and Defi
-- 🌱 I’m currently learning Blockchain App Development
-- 💞️ I’m looking to collaborate on Defi Projects
-- 📫 How to reach me vikramabhishek11@gmail.com, https://www.linkedin.com/in/vikramabhisheksah/
+### Vikram Abhishek Sah :muscle:
 
-<!---
-vikramabhisheksah/vikramabhisheksah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`$ Student | Full Stack | Entrepreneur | Blockchain
+
+**University of Illinois Chicago**, Expected May 2023\
+📚 M.S. in Computer Science\
+
+#### Work Experience 
+
+⭐ May 2019 - Aug 2021, Full Stack engineer @EY :juggling_person:
+
+⭐ Jan 2017 - May 2019, Application Developer @Accenture :mechanical_arm:
+
+
+#### 💬 Ask me about
+
+- Order Management Portal :factory:
+- Reactjs and Nodejs :computer:
+- Blockchain and Defi (Looking to collaborate) :coin:
+- My Workout Routines :rage1:
+
+### vikramabhishek11@gmail.com
+### LinkedIn [https://www.linkedin.com/in/vikramabhisheksah/]
