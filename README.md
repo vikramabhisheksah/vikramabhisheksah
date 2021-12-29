@@ -1,6 +1,6 @@
 ### Vikram Abhishek Sah :muscle:
 
-`$ Student | Full Stack | Entrepreneur | Blockchain
+Student | Full Stack | Entrepreneur | Blockchain
 
 **University of Illinois Chicago**, Expected May 2023\
 📚 M.S. in Computer Science\
